@@ -1,4 +1,4 @@
-## Hi there. I'm Korhan...👋
+## Hi there. I'm Hamza...👋
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | )
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Express.js)
@@ -35,6 +35,6 @@
 <a href="#" target="_blank"> <img src="https://aws1.discourse-cdn.com/business6/uploads/getpostman/original/2X/f/f5d14a3d8749083c5c3cc184fe20db5576f80752.svg" alt="postman" height="50"/> </a> 
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=korhantokgoz&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=korhantokgoz&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korhantokgoz&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=hamzayldz&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzayldz&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzayldz&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
