@@ -5,11 +5,11 @@
 - 💬 Talk to me about  HTML, CSS, Github, JavaScript, React, Node.js, MongoDB, Express.js
 
 ## 👨👩 Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/korhan-tokg%C3%B6z-559525229/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:korhan.tokgoz92@gmail.com)
-<a href = 'https://twitter.com/KorhanTokgoz'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/hamzayldz?trk=public_profile_samename-profile)
+[![website](https://img.shields.io/badge/yandex-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:hamzayldz@yandex.com)
 
-<a href = 'https://instagram.com/krhn.tkgz'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
+
+<a href = 'https://instagram.com/hamzayildis'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 
 ## 💻 Frontend
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="html" height="60"/> </a>
