@@ -1,6 +1,6 @@
 ## Hi there. I'm Hamza...👋
 
-- 🔭 I’m currently working on full stack development (JavaScript | React | )
+- 🔭 I’m currently working on front end development (JavaScript | React | )
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Express.js)
 - 💬 Talk to me about  HTML, CSS, Github, JavaScript, React, Node.js, MongoDB, Express.js
 
